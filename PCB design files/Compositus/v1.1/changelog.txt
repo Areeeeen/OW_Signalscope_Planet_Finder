@@ -1,0 +1,2 @@
+- changed pitch and hole diameter of battery connector footprint to 2.54 and 1.5 respectively
+- so that it can be easily used with 2.54 pitch JST connector
