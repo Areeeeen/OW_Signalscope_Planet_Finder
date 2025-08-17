@@ -1,3 +1,6 @@
+// Signalscope_v2.0
+// Made By - Areen Phaltankar
+
 #include <Wire.h>
 #include <ICM20948_WE.h>
 #include <RTClib.h>
