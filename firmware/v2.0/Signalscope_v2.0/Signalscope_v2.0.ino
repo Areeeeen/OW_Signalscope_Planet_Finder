@@ -42,14 +42,14 @@ struct Planet {              // Define a struct to hold planet data
   float distanceAU;
 };
 
-Planet planets[] = {                                     // Create an array of 7 planets with their initial data  // UPDATE VALUES EVERY 3 DAYS
-  {"Mercury", "/starwars.wav", 25.24139, 97.75},
-  {"Venus",   "/starwars.wav",   11.21000, 34.93},
-  {"Mars",    "/starwars.wav",    13.60028, 149.96},
-  {"Jupiter", "/starwars.wav", 23.27500, 90.65},         // values accurate as of june 12th 2025
-  {"Saturn",  "/starwars.wav",  -1.5161,  1.92},
-  {"Uranus",  "/starwars.wav",  19.675,   56.58},
-  {"Neptune", "/starwars.wav", -0.38861, 2.39}
+Planet planets[] = {                                    
+  {"Mercury", "/Mercury.wav"},
+  {"Venus",   "/Venus.wav"},
+  {"Mars",    "/Mars.wav"},
+  {"Jupiter", "/Jupiter.wav"},         
+  {"Saturn",  "/Saturn.wav"},
+  {"Uranus",  "/Uranus.wav"},
+  {"Neptune", "/Neptune.wav"}
 };
 
 PNG png;
