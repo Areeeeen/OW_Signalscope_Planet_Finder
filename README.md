@@ -1,5 +1,5 @@
 # OW_Signalscope_Planet_Finder
-An open-source, portable, Outer Wilds 'SignalScope' inspired Planet Finder, based on the ESP32 microcontroller
+An open-source, portable, Outer Wilds 'SignalScope' inspired Planet Finder, based on the ESP32-WROOM (38 pin) microcontroller
 
 refer to this instructables link for instructions on assembly - https://www.instructables.com/Outer-Wilds-Signalscope-Inspired-Planet-Finder/
 
